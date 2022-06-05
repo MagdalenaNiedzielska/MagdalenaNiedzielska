@@ -1,12 +1,21 @@
 - Nazwywam się Magdalena Niedzielska. Z wykształcenia jestem radcą prawnym. Dotychczas pracowałam jako starszy specjalista w Urzędzie Komisji Nadzoru Finansowego zajmując się nadzorowaniem działalności zakładów ubezpieczeń oraz brokerów i agentów ubezpieczeniowych.
-Od kilku lat przebywam na urlopach rodzicielskich/wychowawczych, ponieważ chciałam spędzić z dziećmi pierwsze i najważniejsze rozojowo lata ich życia.
+Od kilku lat przebywam na urlopach rodzicielskich/wychowawczych, ponieważ chciałam spędzić z dziećmi pierwsze i najważniejsze rozwojowo lata ich życia.
 - W związku z przeprowadzką pod Warszawę moim priorytetem jest możliwość wykonywania pracy zdalnie, bym mogła pogodzić w satysfakcjonujący sposób życie zawodowe i rodzinne.
 - Od początku roku 2022 uczę się testowania oprogramowania. Ukończyłam kurs Wieczorowej Akademii Testowania Testuj.pl. Aktualnie przygotowuję się do zdania egzaminu ISTQB® Certified Tester Foundation Level.
 - Ukończone kursy:
-- Umiejętności:
+Udemy: Praktyczny kurs testowania oprogramowania;
+Udemy: Kurs Jira od podstaw - zarządzanie projektami;
+Udemy: Zostań QA lub testerem oprogramowania od zera
+- Umiejętności: Jira, Qase
 - Certyfikaty: C1 Advanced, formerly known as Cambridge English: Advanced (CAE)
 - Lektury:
+Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin;
+Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak;
+Certyfikowany tester ISTQB Poziom podstawowy - Adam Roman, Lucjan Stapp
 - Śledzone blogi/profile/podcasty/webinary:
+https://remigiuszbednarczyk.pl/ ;
+http://cherry-it.pl/ ;
+https://uszanowanko.tsh.io/
 - Moje projekty:
 - Zapraszam do kontaktu: magdalena.a.niedzielska@gmail.com
 
