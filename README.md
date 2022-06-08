@@ -1,8 +1,9 @@
-- Nazwywam się Magdalena Niedzielska. Z wykształcenia jestem radcą prawnym. Dotychczas pracowałam jako starszy specjalista w Urzędzie Komisji Nadzoru Finansowego zajmując się nadzorowaniem działalności zakładów ubezpieczeń oraz brokerów i agentów ubezpieczeniowych.
+- Nazwywam się Magdalena Niedzielska. Z wykształcenia jestem radcą prawnym. Dotychczas pracowałam jako starszy specjalista w Urzędzie Komisji Nadzoru Finansowego zajmując się nadzorowaniem działalności zakładów ubezpieczeń oraz brokerów i agentów ubezpieczeniowych, zaś wcześniej pracowniczych programów emerytalnych.
 Od kilku lat przebywam na urlopach rodzicielskich/wychowawczych, ponieważ chciałam spędzić z dziećmi pierwsze i najważniejsze rozwojowo lata ich życia.
 - W związku z przeprowadzką pod Warszawę moim priorytetem jest możliwość wykonywania pracy zdalnie, bym mogła pogodzić w satysfakcjonujący sposób życie zawodowe i rodzinne.
 - Od początku roku 2022 uczę się testowania oprogramowania. Ukończyłam kurs Wieczorowej Akademii Testowania Testuj.pl. Aktualnie przygotowuję się do zdania egzaminu ISTQB® Certified Tester Foundation Level.
 - Ukończone kursy:
+Akademia Testowania Testuj.pl
 Udemy: Praktyczny kurs testowania oprogramowania;
 Udemy: Kurs Jira od podstaw - zarządzanie projektami;
 Udemy: Zostań QA lub testerem oprogramowania od zera
@@ -17,7 +18,7 @@ https://remigiuszbednarczyk.pl/ ;
 http://cherry-it.pl/ ;
 https://uszanowanko.tsh.io/
 - Moje projekty:
-- Zapraszam do kontaktu: magdalena.a.niedzielska@gmail.com
+- Zapraszam do kontaktu: magdalena.a.niedzielska@gmail.com ; www.linkedin.com/in/magdalena-niedzielska 
 
 
 
