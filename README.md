@@ -17,7 +17,7 @@ Certyfikowany tester ISTQB Poziom podstawowy - Adam Roman, Lucjan Stapp
 https://remigiuszbednarczyk.pl/ ;
 http://cherry-it.pl/ ;
 https://uszanowanko.tsh.io/
-- Moje projekty: https://martinaaa84.atlassian.net/jira/your-work ; Bugi i przypadki testowe https://drive.google.com/drive/folders/1fP8FcHIfzMhTrFjTitgCmniIQ-9Hqovp?usp=sharing
+- Moje zadania: https://martinaaa84.atlassian.net/jira/your-work ; Bugi i przypadki testowe https://drive.google.com/drive/folders/1fP8FcHIfzMhTrFjTitgCmniIQ-9Hqovp?usp=sharing
 - Zapraszam do kontaktu: magdalena.a.niedzielska@gmail.com ; www.linkedin.com/in/magdalena-niedzielska 
 
 
