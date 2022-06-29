@@ -7,7 +7,7 @@ Akademia Testowania Testuj.pl
 Udemy: Praktyczny kurs testowania oprogramowania;
 Udemy: Kurs Jira od podstaw - zarządzanie projektami;
 Udemy: Zostań QA lub testerem oprogramowania od zera
-- Umiejętności: Jira, Qase
+- Umiejętności: Jira, Qase, Slack
 - Certyfikaty: ISTQB® Certified Tester Foundation Level - czerwiec 2022; C1 Advanced, formerly known as Cambridge English: Advanced (CAE) - 2002
 - Lektury:
 Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin;
