@@ -7,11 +7,13 @@ Akademia Testowania Testuj.pl
 Udemy: Praktyczny kurs testowania oprogramowania;
 Udemy: Kurs Jira od podstaw - zarządzanie projektami;
 Udemy: Zostań QA lub testerem oprogramowania od zera;
-Udemy: Kurs Git dla początkujących.
+Udemy: Kurs Git dla początkujących;
+Udemy: MySQL tworzenie i zarządzanie bazami danych.
+Aktualnie uczę się przerabiając Udemy: The Complete 2022 Software Testing Bootcamp.
 Uczestniczyłam także w projektach szkoleniowych:
 1-30.06.2022 COLT 1/2022 (Collaborative Testing) - Cherry-IT;
 27.10.2022 -27.12.2022 Projekt Treningowy 2/2022 Trello - Cherry-IT.
-- Umiejętności: Jira, Qase, Slack.
+- Umiejętności: Jira, Qase, Slack, Git, SQL.
 - Certyfikaty: ISTQB® Certified Tester Foundation Level - czerwiec 2022; C1 Advanced, formerly known as Cambridge English: Advanced (CAE) - 2002
 - Lektury:
 Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin;
