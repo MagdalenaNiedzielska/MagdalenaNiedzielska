@@ -6,8 +6,12 @@ Od kilku lat przebywam na urlopach rodzicielskich/wychowawczych, ponieważ chcia
 Akademia Testowania Testuj.pl
 Udemy: Praktyczny kurs testowania oprogramowania;
 Udemy: Kurs Jira od podstaw - zarządzanie projektami;
-Udemy: Zostań QA lub testerem oprogramowania od zera
-- Umiejętności: Jira, Qase, Slack
+Udemy: Zostań QA lub testerem oprogramowania od zera;
+Udemy: Kurs Git dla początkujących.
+Uczestniczyłam także w projektach szkoleniowych:
+1-30.06.2022 COLT 1/2022 (Collaborative Testing) - Cherry-IT;
+27.10.2022 -27.12.2022 Projekt Treningowy 2/2022 Trello - Cherry-IT.
+- Umiejętności: Jira, Qase, Slack.
 - Certyfikaty: ISTQB® Certified Tester Foundation Level - czerwiec 2022; C1 Advanced, formerly known as Cambridge English: Advanced (CAE) - 2002
 - Lektury:
 Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin;
