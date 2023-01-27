@@ -13,7 +13,7 @@ Aktualnie uczę się przerabiając Udemy: The Complete 2022 Software Testing Boo
 Uczestniczyłam także w projektach szkoleniowych:
 1-30.06.2022 COLT 1/2022 (Collaborative Testing) - Cherry-IT;
 27.10.2022 -27.12.2022 Projekt Treningowy 2/2022 Trello - Cherry-IT.
-- Umiejętności: Jira, Qase, Slack, Git, Github, SQL, Trello.
+- Umiejętności: Jira, Qase, Slack, Git, Github, SQL, Trello, podstawy HTML5, CSS3.
 - Certyfikaty: ISTQB® Certified Tester Foundation Level - czerwiec 2022; C1 Advanced, formerly known as Cambridge English: Advanced (CAE) - 2002
 - Lektury:
 Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin;
